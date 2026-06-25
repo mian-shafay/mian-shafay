@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=Computer+Science+Student+at+Air+University+%F0%9F%8E%93;Full-Stack+Web+Developer+%7C+Java+%7C+DevOps;AI+Enthusiast+%26+Problem+Solver;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=CS+Student+%F0%9F%8E%93+at+Air+University;Web+Dev+%7C+Java+%7C+DevOps+%7C+AI+enthusiast;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <h1 align="center">👋 Muhammad Shafay</h1>
