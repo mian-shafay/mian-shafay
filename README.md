@@ -1,8 +1,8 @@
-<h1 align="center">Hey there! 👋 I'm Muhammad Shafay</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=CS+Student+%F0%9F%8E%93;Web+Dev+%7C+Java+%7C+MySQL+%7C+AI+enthusiast;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=CS+Student+%F0%9F%8E%93;Web+Dev+%7C+Java+%7C+DevOps+%7C+AI+enthusiast;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
+
+<h1 align="center">👋 Muhammad Shafay</h1>
 
 <p align="center">
   <a href="mailto:shafay082015@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
