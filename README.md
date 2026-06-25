@@ -57,15 +57,6 @@
 
 ---
 
-### 🚀 My Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [📚 Bookverse](https://github.com/mian-shafay/Bookverse) | Online bookstore with catalog, cart & checkout | HTML, CSS, JS |
-| [🍰 Blisskery](https://github.com/mian-shafay/Blisskery) | Bakery ordering system with a speed-challenge mini-game | Java, Swing, MySQL |
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
