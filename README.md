@@ -15,11 +15,11 @@
 ### 🙋‍♂️ About Me
 
 - 🎓 CS student grinding through code (and loving it)
-- 🌐 Built **Bookverse** — a full online bookstore with cart, checkout & dark theme
-- ☕ Built **Blisskery** — a Java Swing bakery ordering system with MySQL & a speed-challenge mini-game
-- 🤖 Currently exploring **AI & Machine Learning**
-- 🔐 Interested in **Cybersecurity** and how things break (ethically 😅)
-- 💬 Ask me about HTML/CSS, Java, or MySQL — happy to help!
+- 🌐 Built *Bookverse* - a full online bookstore with cart, checkout & dark theme
+- ☕ Built *Blisskery* - a Java Swing bakery ordering system with MySQL & a speed-challenge mini-game
+- 🤖 Currently exploring *AI & Machine Learning*
+- 🔐 Interested in *Cybersecurity* and how things break (ethically 😅)
+- 💬 Ask me about HTML/CSS, Java, or MySQL - happy to help!
 - ⚡ Fun fact: I built a checkout system that makes you solve a math problem before you can order food 🍰
 
 ---
